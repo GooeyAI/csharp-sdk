@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gooey.net", "Gooey.net\Gooey.net.csproj", "{8936E526-DE94-47B1-9BE9-EEBE6D73ADD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gooey.net.Test", "Gooey.net.Test\Gooey.net.Test.csproj", "{AB22B81E-3D23-42D1-8DD4-1CA4B22CE5C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8936E526-DE94-47B1-9BE9-EEBE6D73ADD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8936E526-DE94-47B1-9BE9-EEBE6D73ADD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8936E526-DE94-47B1-9BE9-EEBE6D73ADD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8936E526-DE94-47B1-9BE9-EEBE6D73ADD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB22B81E-3D23-42D1-8DD4-1CA4B22CE5C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB22B81E-3D23-42D1-8DD4-1CA4B22CE5C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB22B81E-3D23-42D1-8DD4-1CA4B22CE5C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB22B81E-3D23-42D1-8DD4-1CA4B22CE5C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
